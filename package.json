@@ -1,0 +1,17 @@
+{
+  "name": "backend-project-setup---chai-aur-code",
+  "version": "1.0.0",
+  "description": "learning to setup a backend project from Hitesh Choudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "mern",
+    "express"
+  ],
+  "author": "Jitesh Balani",
+  "license": "ISC"
+}
